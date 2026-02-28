@@ -66,7 +66,7 @@ export default function AbstractPaperSubmission() {
               rel="noopener noreferrer"
               className="btn"
             >
-              Template Download
+              Download Template
             </a>
             <a href="/brochure.pdf" className="btn btn-brochure" download>Download Brochure</a>
           </div>

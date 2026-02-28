@@ -218,7 +218,7 @@ export default function Committee() {
                 <img src="https://i1.rgstatic.net/ii/profile.image/327430150606849-1455076839356_Q128/Kailas-Rao.jpg" alt="Prof. Kailasa Rao M." />
               </div>
               <div className="member-info">
-                <h3>Professor Kailasa Rao M.</h3>
+                <h3>Prof (Dr.) Kailasa Rao M.</h3>
                 <p>Professor at School of Planning and Architecture, Vijayawada</p>
               </div>
             </div>
@@ -228,7 +228,7 @@ export default function Committee() {
                 <img src="https://i1.rgstatic.net/ii/profile.image/664144000851969-1535355677215_Q128/Ajay-Khare.jpg" alt="Prof. Ajay Khare" />
               </div>
               <div className="member-info">
-                <h3>Professor (Dr.) Ajay Khare</h3>
+                <h3>Prof (Dr.)  Ajay Khare</h3>
                 <p>Professor, Department of Conservation, School of Planning and Architecture, Bhopal</p>
               </div>
             </div>
@@ -317,10 +317,6 @@ export default function Committee() {
               <p className="advisor-designation">Professor, Department of Civil Engineering, NIT Patna, NIT Patna</p>
             </div>
             <div className="advisor-card">
-              <h3 className="advisor-name">Ms. Sunita Narayan</h3>
-              <p className="advisor-designation">Director General, Centre for Science and Environment, New Delhi</p>
-            </div>
-            <div className="advisor-card">
               <h3 className="advisor-name">Prof. (Dr.) K.T. Ravindran</h3>
               <p className="advisor-designation">Professor (Retired), Urban Design, School of Planning and Architecture, SPA Delhi</p>
             </div>
@@ -350,8 +346,8 @@ export default function Committee() {
               <p className="advisor-designation">Dean (Academic), School of Planning and Architecture, Bhopal</p>
             </div>
             <div className="advisor-card">
-              <h3 className="advisor-name">Prof. (Dr.) Anil Dewan (Retd.)</h3>
-              <p className="advisor-designation">Dean Research, School of Planning and Architecture Delhi</p>
+              <h3 className="advisor-name">Prof. (Dr.) Anil Dewan </h3>
+              <p className="advisor-designation">Dean Research (Retd.), School of Planning and Architecture Delhi</p>
             </div>
             <div className="advisor-card">
               <h3 className="advisor-name">Dr. Sheuli Mitra</h3>
